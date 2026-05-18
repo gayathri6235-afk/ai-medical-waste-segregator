@@ -1,4 +1,4 @@
-https://github.com/gayathri6235-afk/ai-medical-waste-segregator/new/main# 🤖 AI-Based Medical Waste Segregator
+ 🤖 AI-Based Medical Waste Segregator
 
 > A Final Year B.Tech Project — Department of Electronics and Communication Engineering  
 > Government Engineering College, Wayanad | APJ Abdul Kalam Technological University | March 2026
@@ -178,7 +178,7 @@ Precise actuators that rotate to specific angular positions based on control sig
 
 ![AI Medical Waste Segregator](https://github.com/gayathri6235-afk/ai-medical-waste-segregator/blob/main/hardware_setup.png)
 *Figure: AI Based Medical Waste Segregator — Physical Prototype*
-![Circuit Diagram]()
+![Circuit Diagram](https://github.com/gayathri6235-afk/ai-medical-waste-segregator/blob/main/CIRCUIT.png)
 *Figure: Circuit Diagram*
 ---
 
