@@ -174,12 +174,12 @@ Precise actuators that rotate to specific angular positions based on control sig
 
 ## 📷 Project Photos
 
-> *(Add actual photos from your project here)*
 
-![AI Medical Waste Segregator](docs/hardware_setup.jpg)
+
+![AI Medical Waste Segregator](https://github.com/gayathri6235-afk/ai-medical-waste-segregator/blob/main/hardware_setup.png)
 *Figure: AI Based Medical Waste Segregator — Physical Prototype*
-
-
+![Circuit Diagram]()
+*Figure: Circuit Diagram*
 ---
 
 ## 🚀 How to Run
