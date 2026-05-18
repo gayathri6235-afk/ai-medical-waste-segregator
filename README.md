@@ -42,7 +42,7 @@ A camera module integrated with a Raspberry Pi captures real-time images of wast
 
 ## 🗂️ Waste Categories Classified
 
-The system classifies the following 13 types of biomedical waste:
+The system classifies the following 12 types of biomedical waste:
 
 | Category | Type |
 |---|---|
@@ -77,7 +77,7 @@ Microcontroller       Flask Server
      ↓
 Actuator (Servo Motor)
      ↓
-Waste Bins: Sharps | Infectious | Plastics | Pharmaceutical
+Waste Bins: Sharps | Infectious | Plastics | glass
      ↓
 UV Sterilization Unit
 ```
@@ -152,7 +152,7 @@ Precise actuators that rotate to specific angular positions based on control sig
 3. **AI Classification** — YOLOv8 model running on Raspberry Pi 4 classifies the waste type
 4. **Signal Transmission** — Raspberry Pi sends classification result to Arduino UNO Nano
 5. **Bin Rotation** — Arduino triggers the servo motor to rotate the correct bin into position
-6. **Waste Disposal** — Waste falls into the appropriate bin (Sharps / Infectious / Pharmaceutical)
+6. **Waste Disposal** — Waste falls into the appropriate bin (Sharps / Infectious /  plastic  / glass)
 7. **UV Sterilization** — UV unit sterilizes the disposal area
 8. **Remote Monitoring** — Flask-based web interface enables real-time monitoring and manual override
 
